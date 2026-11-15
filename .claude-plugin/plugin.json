@@ -1,0 +1,8 @@
+{
+  "name": "studio-kit",
+  "version": "0.1.0",
+  "description": "Reusable email studio tools: per-group personalization, a Resend send guard, a brand reviewer agent and a headless review script.",
+  "author": {
+    "name": "Qasim Jutt"
+  }
+}
